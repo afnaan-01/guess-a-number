@@ -94,22 +94,22 @@ body {
 
 @media screen and (max-width:600px) {
       .title {
-            font-size: 25px;
+            font-size: 30px;
       }
 
       .container {
             gap: 20px;
-            padding: 25px 50px;
+            padding: 12px 25px;
       }
 
       .input-section h3 {
-            font-size: 7px;
+            font-size: 12px;
       }
 
       .input-section input {
-            width: 150px;
+            width: 200px;
             border-radius: 5px;
-            font-size: 10px;
+            font-size: 17px;
             padding: 1px 5px;
             margin-top: 5px;
       }
@@ -117,9 +117,9 @@ body {
       .submit,
       .start,
       .restart {
-            width: 150px;
+            width: 200px;
             border-radius: 5px;
-            font-size: 10px;
+            font-size: 17px;
             padding: 2.5px 0;
             cursor:default;
       }
