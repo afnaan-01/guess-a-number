@@ -85,3 +85,5 @@ let endGame = (val) => {
     attempts = 10;
     input.value = '';
 }
+
+alert('changes made');

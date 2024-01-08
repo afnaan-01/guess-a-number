@@ -116,11 +116,11 @@ body {
       
       .submit,
       .start,
-      .restart {
+      .restart{
             width: 200px;
             border-radius: 5px;
             font-size: 17px;
             padding: 2.5px 0;
-            cursor:default;
+            cursor:unset;
       }
 }
