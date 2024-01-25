@@ -26,7 +26,6 @@ start.addEventListener('click', () => {
     submit.style.display = 'block';
     document.querySelector('.attemps').style.display = 'block';
     att.innerHTML = attempts;
-    console.log(number);
 });
 
 
